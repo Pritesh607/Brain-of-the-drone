@@ -20,4 +20,6 @@ Esp32 S3:45
 
 Now if we come to the hardware part, we will use 816 coreless motor or any comparable coreless motor for more thrust and we will not require any external motor driver as it is inbuild into the flight controller and for the frame we can use any small drone frame that can fit all the components and will be stable and for the battery we will use an 1s lipo battery.  
 
-For the Wi-Fi controlled drone firmware you can see the video "ESP32 WI-FI CONTROLLED DRONE from scratch tutorial" by Dr Electronics on YouTube because it is a long process. Now for the Betafpv firmware you just have to flash the Betafpv compatable firmware firmware which i have given and install the betafpv v10.10.   
+For the Wi-Fi controlled drone firmware you can see the video "ESP32 WI-FI CONTROLLED DRONE from scratch tutorial" by Dr Electronics on YouTube because it is a long process. Now for the Betafpv firmware you just have to flash the Betafpv compatable firmware onto the Esp32 S3 which i have given and install the betafpv v10.10.   
+
+NOTE: To give power to the Esp32 you have to directly solder a wire to the back of the esp32 s3 because there is a external battery connector and you can charge the battery directly from the esp32 Type-C connector.
