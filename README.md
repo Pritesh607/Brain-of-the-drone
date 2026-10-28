@@ -24,7 +24,7 @@ For the Wi-Fi controlled drone firmware you can see the video "ESP32 WI-FI CONTR
 
 NOTE: To give power to the Esp32 you have to directly solder a wire to the back of the esp32 s3 because there is a external battery connector and you can charge the battery directly from the esp32 Type-C connector.
 ## PCB Design
-[view bom.csv](bom(1).csv)
+[view bom.csv](bom.csv)
 ![image alt](https://github.com/Pritesh607/Brain-of-the-drone/blob/c1979ad6ae038782cff72d6b6be79a0cc504ad1e/Images/Screenshot%202026-10-06%20153152.png)
 ![image alt](https://github.com/Pritesh607/Brain-of-the-drone/blob/main/Images/Screenshot%202026-10-08%20193431.png)
 ![image alt](https://github.com/Pritesh607/Brain-of-the-drone/blob/main/Images/Screenshot%202026-10-08%20193706.png)
